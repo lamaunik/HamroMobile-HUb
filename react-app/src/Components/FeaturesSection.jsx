@@ -10,7 +10,7 @@ import Footer from "src/components/Footer";
 const styles = {
   page: {
     fontFamily: "'Segoe UI', Arial, sans-serif",
-    color: "#1f2937",
+    color: "#1c2531ff",
     lineHeight: "1.6",
     minHeight: "100vh",
   },
