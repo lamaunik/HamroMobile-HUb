@@ -13,7 +13,7 @@ const styles = {
   card: {
     padding: "32px",
     borderRadius: "16px",
-    backgroundColor: "#ffffff",
+    backgroundColor: "#eeeaeaff",
     boxShadow: "0 4px 20px rgba(0,0,0,0.08)",
     transition: "transform 0.3s",
     textAlign: "left",
