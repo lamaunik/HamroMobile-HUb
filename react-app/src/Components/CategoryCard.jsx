@@ -11,7 +11,7 @@ const CategoryCard = ({ imgSrc, alt, label }) => {
 
 const styles = {
   categoryCard: {
-    backgroundColor: "#ffffff",
+    backgroundColor: "#f4f0f0ff",
     padding: "40px 20px",
     borderRadius: "16px",
     boxShadow: "0 4px 20px rgba(0,0,0,0.08)",
